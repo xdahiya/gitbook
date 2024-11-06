@@ -1,0 +1,18 @@
+# Table of contents
+
+* [What is ML](README.md)
+* [History of ml](history-of-ml.md)
+* [AI vs ML vs DL](ai-vs-ml-vs-dl.md)
+* [Types of ML](types-of-ml.md)
+* [Challenges in ML](challenges-in-ml.md)
+* [ML Development Life Cycle](ml-development-life-cycle.md)
+* [Job Roles](job-roles.md)
+* [Tensors](tensors.md)
+* [Tools for ML](tools-for-ml.md)
+* [Framing a Ml Problem](framing-a-ml-problem.md)
+* [Gathering Data](gathering-data.md)
+* [Understanding Data](understanding-data.md)
+* [EDA](eda.md)
+* [Feature Engineering](feature-engineering.md)
+* [Scaling](scaling.md)
+* [Encoding](encoding.md)

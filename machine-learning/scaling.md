@@ -1,0 +1,3 @@
+# Scaling
+
+Standardization,Normalization
