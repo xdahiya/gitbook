@@ -48,3 +48,6 @@ pines ui
 ui layout
 {% endembed %}
 
+{% embed url="https://awesome-shadcn-ui.vercel.app/" %}
+awsemore shadcn
+{% endembed %}
