@@ -30,7 +30,15 @@ sudo npm i -g pm2
 
 
 
+```
+sudo pm2 start npm --  start
+```
 
+```
+sudo pm2 start --name "nftblog-backend" "server.js" 
+```
 
-
+```javascript
+sudo pm2 --name "nftblog-front" serve --spa dist 3300
+```
 
