@@ -51,3 +51,5 @@ ui layout
 {% embed url="https://awesome-shadcn-ui.vercel.app/" %}
 awsemore shadcn
 {% endembed %}
+
+{% embed url="https://ui.aceternity.com/" %}
