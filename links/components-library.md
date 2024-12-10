@@ -53,3 +53,10 @@ awsemore shadcn
 {% endembed %}
 
 {% embed url="https://ui.aceternity.com/" %}
+
+
+
+{% embed url="https://www.eldoraui.site/" %}
+
+
+
