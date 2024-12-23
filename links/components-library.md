@@ -62,5 +62,9 @@ awsemore shadcn
 
 {% embed url="https://www.twblocks.com/" %}
 
+{% embed url="https://zenui.net/" %}
 
+{% embed url="https://animata.design/" %}
+new hub
+{% endembed %}
 
