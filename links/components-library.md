@@ -68,3 +68,8 @@ awsemore shadcn
 new hub
 {% endembed %}
 
+{% embed url="https://shadcn-ui-blocks.akashmoradiya.com/blocks" %}
+
+
+
+{% embed url="https://getnextjsthemes.com/" %}
