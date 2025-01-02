@@ -73,3 +73,6 @@ new hub
 
 
 {% embed url="https://getnextjsthemes.com/" %}
+
+{% embed url="https://www.reactbits.dev/" %}
+
