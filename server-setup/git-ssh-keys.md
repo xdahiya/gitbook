@@ -33,3 +33,24 @@ cat \~/.ssh/id\_ed25519.pub or cat \~/.ssh/key\_name.pub
 ssh -T [git@github.com](mailto:git@github.com)
 
 git remote remove origin git remote add origin [git@github.com](mailto:git@github.com):your\_username/your\_repository.git
+
+
+
+
+
+
+
+## set global username and email in github
+
+
+
+```
+git config --global user.name "xdahiya"
+```
+
+```
+git config --global user.email "xdahiya@gmail.com"
+```
+
+
+
