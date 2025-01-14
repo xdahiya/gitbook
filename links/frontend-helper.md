@@ -14,5 +14,7 @@ bg&#x20;
 
 {% embed url="https://postspark.app/" %}
 
+{% embed url="https://freepik.com" %}
 
+{% embed url="https://www.vecteezy.com/" %}
 
