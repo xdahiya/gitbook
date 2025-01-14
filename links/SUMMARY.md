@@ -9,5 +9,5 @@
 * [images sites](images-sites.md)
 * [frontend helper ](frontend-helper.md)
 * [web design](web-design.md)
-* [Page 1](page-1.md)
+* [3d /blender](3d-blender.md)
 * [crypto](crypto.md)
