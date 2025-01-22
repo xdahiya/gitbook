@@ -76,3 +76,7 @@ new hub
 
 {% embed url="https://www.reactbits.dev/" %}
 
+tailwind ui components
+
+{% embed url="https://tailwindui.starxg.com/" %}
+
