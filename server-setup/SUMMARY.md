@@ -6,3 +6,4 @@
 * [Nginx](nginx.md)
 * [Git ssh keys](git-ssh-keys.md)
 * [Firewall](firewall.md)
+* [Redis](redis.md)
