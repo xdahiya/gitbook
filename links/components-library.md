@@ -88,3 +88,16 @@ tailwind ui components
 
 {% embed url="https://ui.lndev.me/" %}
 
+
+
+{% embed url="https://kokonutui.com/" %}
+
+{% embed url="https://atomix-ui.vercel.app/" %}
+
+{% embed url="https://bundui.io/" %}
+
+{% embed url="https://hextaui.com/" %}
+
+
+
+{% embed url="https://originui.com/" %}
