@@ -80,3 +80,11 @@ tailwind ui components
 
 {% embed url="https://tailwindui.starxg.com/" %}
 
+{% embed url="https://www.fancycomponents.dev/" %}
+
+{% embed url="https://www.fancycomponents.dev/docs/components/blocks/sticky-footer" %}
+
+{% embed url="https://ui.indie-starter.dev/" %}
+
+{% embed url="https://ui.lndev.me/" %}
+
