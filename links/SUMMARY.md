@@ -11,3 +11,4 @@
 * [web design](web-design.md)
 * [3d /blender](3d-blender.md)
 * [crypto](crypto.md)
+* [web ui inspirations](web-ui-inspirations.md)
