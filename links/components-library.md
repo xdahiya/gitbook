@@ -105,3 +105,10 @@ tailwind ui components
 
 
 {% embed url="https://www.creative-tim.com/" %}
+
+
+
+{% embed url="https://dev.to/davidepacilio/35-free-react-templates-and-themes-32ci?ref=dailydev" %}
+
+
+
