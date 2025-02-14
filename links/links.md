@@ -24,4 +24,14 @@ description: useful links or tools generally open sourced tools
 79 engineering blogs
 {% endembed %}
 
+
+
+{% embed url="https://react-rainbow.web.app/" %}
+
+
+
+{% embed url="https://www.indiehackers.com/post/40-open-source-gems-to-replace-your-saas-subscriptions-f733b8e166?ref=dailydev" %}
+
+
+
 [^1]: open source
