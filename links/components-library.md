@@ -110,5 +110,14 @@ tailwind ui components
 
 {% embed url="https://dev.to/davidepacilio/35-free-react-templates-and-themes-32ci?ref=dailydev" %}
 
+{% embed url="https://segmentui.com/" %}
 
 
+
+{% embed url="https://number-flow.barvian.me/showcase" %}
+
+mantine.com
+
+
+
+{% embed url="https://www.transparenttextures.com/" %}
