@@ -28,3 +28,4 @@ description: website helpful in web desgining
 
 {% embed url="https://emaillove.com/" %}
 
+{% embed url="https://www.uifonts.app/?ref=dailydev&primaryFont=Noto+Sans+Egyptian+Hieroglyphs&secondaryFont=Cabin+Condensed" %}
