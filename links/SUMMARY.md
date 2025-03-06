@@ -14,3 +14,4 @@
 * [web ui inspirations](web-ui-inspirations.md)
 * [Blockchain](blockchain.md)
 * [Flutter](flutter.md)
+* [AI](ai.md)
