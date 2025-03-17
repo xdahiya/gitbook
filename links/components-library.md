@@ -121,3 +121,5 @@ mantine.com
 
 
 {% embed url="https://www.transparenttextures.com/" %}
+
+{% embed url="https://artifactui.in/" %}
