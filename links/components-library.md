@@ -123,3 +123,7 @@ mantine.com
 {% embed url="https://www.transparenttextures.com/" %}
 
 {% embed url="https://artifactui.in/" %}
+
+{% embed url="https://nsui.irung.me/" %}
+
+{% embed url="https://ui-8dy8ykf4h-shadcn-pro.vercel.app/blocks" %}
