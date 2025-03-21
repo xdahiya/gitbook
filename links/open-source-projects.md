@@ -20,3 +20,11 @@ rebrowser
 
 
 
+real-browser-puppeteer
+
+
+
+{% embed url="https://www.indiehackers.com/post/40-open-source-gems-to-replace-your-saas-subscriptions-f733b8e166?ref=dailydev" %}
+
+{% embed url="https://github.com/emmabostian/developer-portfolios" %}
+
