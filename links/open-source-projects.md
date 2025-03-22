@@ -28,3 +28,6 @@ real-browser-puppeteer
 
 {% embed url="https://github.com/emmabostian/developer-portfolios" %}
 
+{% embed url="https://github.com/Tajmirul/portfolio-ideas" %}
+
+{% embed url="https://milkdown.dev/playground" %}
