@@ -7,3 +7,5 @@ description: some coll web projects ui
 
 
 {% embed url="https://superverse.co/" %}
+
+{% embed url="https://tiptap.dev/" %}
