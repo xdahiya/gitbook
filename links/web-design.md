@@ -30,7 +30,7 @@ description: website helpful in web desgining
 
 {% embed url="https://www.uifonts.app/?ref=dailydev&primaryFont=Noto+Sans+Egyptian+Hieroglyphs&secondaryFont=Cabin+Condensed" %}
 
-
+{% embed url="https://www.tinte.dev/shadcn" %}
 
 **Top Website Inspiration Library**
 
