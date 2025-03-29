@@ -6,6 +6,8 @@ description: links of tools and webs helpful in frontend
 
 
 
+{% embed url="https://mailchi.mp/webtoolsweekly/web-tools-602?ref=dailydev" %}
+
 {% embed url="https://freetool.vercel.app/" %}
 
 {% embed url="https://bg.ibelick.com/" %}
