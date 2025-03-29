@@ -6,7 +6,7 @@ description: links of tools and webs helpful in frontend
 
 
 
-
+{% embed url="https://freetool.vercel.app/" %}
 
 {% embed url="https://bg.ibelick.com/" %}
 
