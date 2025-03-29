@@ -2,7 +2,7 @@
 description: website helpful in web desgining
 ---
 
-# web design
+# web design inspirations
 
 
 
@@ -24,13 +24,13 @@ description: website helpful in web desgining
 
 {% embed url="https://squoosh.app/" %}
 
-{% embed url="https://iconscout.com/" %}
-
 {% embed url="https://emaillove.com/" %}
 
 {% embed url="https://www.uifonts.app/?ref=dailydev&primaryFont=Noto+Sans+Egyptian+Hieroglyphs&secondaryFont=Cabin+Condensed" %}
 
-{% embed url="https://www.tinte.dev/shadcn" %}
+{% embed url="https://marketplace.peachworlds.com/" %}
+
+
 
 **Top Website Inspiration Library**
 
