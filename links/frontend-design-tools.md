@@ -21,3 +21,5 @@ description: links of tools and webs helpful in frontend
 {% embed url="https://bgjar.com/world-map" %}
 
 {% embed url="http://zippystarter.com/tools/shadcn-ui-theme-generator" %}
+
+{% embed url="https://tweakcn.com/editor/theme" %}
