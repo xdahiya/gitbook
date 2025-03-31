@@ -23,3 +23,7 @@ description: links of tools and webs helpful in frontend
 {% embed url="http://zippystarter.com/tools/shadcn-ui-theme-generator" %}
 
 {% embed url="https://tweakcn.com/editor/theme" %}
+
+{% embed url="https://shadcn-form-build.vercel.app/" %}
+
+{% embed url="https://www.uifonts.app/" %}
