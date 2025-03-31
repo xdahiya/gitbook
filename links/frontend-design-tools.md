@@ -17,3 +17,7 @@ description: links of tools and webs helpful in frontend
 {% embed url="https://postspark.app/" %}
 
 {% embed url="https://www.tinte.dev/shadcn" %}
+
+{% embed url="https://bgjar.com/world-map" %}
+
+{% embed url="http://zippystarter.com/tools/shadcn-ui-theme-generator" %}

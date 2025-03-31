@@ -13,3 +13,5 @@ description: some coll web projects ui
 {% embed url="https://open-agent-kit.com/?ref=producthunt" %}
 
 {% embed url="https://www.cooler.fm/" %}
+
+{% embed url="https://www.campsi.com/" %}
