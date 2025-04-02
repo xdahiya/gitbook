@@ -131,3 +131,11 @@ mantine.com
 {% embed url="https://motion-primitives.com/" %}
 
 {% embed url="https://ui.tailus.io/" %}
+
+{% embed url="https://blocks.tremor.so/" %}
+
+{% embed url="https://pro.cult-ui.com/blocks" %}
+
+{% embed url="https://reactflow.dev/components/" %}
+
+{% embed url="https://www.assistant-ui.com/" %}

@@ -27,3 +27,5 @@ description: links of tools and webs helpful in frontend
 {% embed url="https://shadcn-form-build.vercel.app/" %}
 
 {% embed url="https://www.uifonts.app/" %}
+
+{% embed url="https://shadcnuikit.com/" %}
