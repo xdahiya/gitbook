@@ -139,3 +139,5 @@ mantine.com
 {% embed url="https://reactflow.dev/components/" %}
 
 {% embed url="https://www.assistant-ui.com/" %}
+
+{% embed url="https://github.com/stackzero-labs/ui" %}
