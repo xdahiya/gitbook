@@ -141,3 +141,8 @@ mantine.com
 {% embed url="https://www.assistant-ui.com/" %}
 
 {% embed url="https://github.com/stackzero-labs/ui" %}
+
+{% embed url="https://tools.ui-layouts.com/" %}
+
+{% embed url="https://reverseui.com/" %}
+
