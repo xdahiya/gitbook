@@ -29,3 +29,5 @@ description: links of tools and webs helpful in frontend
 {% embed url="https://www.uifonts.app/" %}
 
 {% embed url="https://shadcnuikit.com/" %}
+
+{% embed url="https://app.haikei.app/" %}
