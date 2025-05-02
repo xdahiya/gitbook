@@ -149,3 +149,5 @@ mantine.com
 {% embed url="https://tailark.com/" %}
 
 {% embed url="https://www.landingfolio.com/" %}
+
+{% embed url="https://blocks.tremor.so/blocks" %}
