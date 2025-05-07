@@ -151,3 +151,11 @@ mantine.com
 {% embed url="https://www.landingfolio.com/" %}
 
 {% embed url="https://blocks.tremor.so/blocks" %}
+
+{% embed url="https://www.smoothui.dev/" %}
+
+{% embed url="https://sparkbites.dev/" %}
+
+
+
+{% embed url="https://reverseui.com/" %}
