@@ -31,3 +31,5 @@ description: links of tools and webs helpful in frontend
 {% embed url="https://shadcnuikit.com/" %}
 
 {% embed url="https://app.haikei.app/" %}
+
+{% embed url="https://www.shadcn-builder.com/" %}
