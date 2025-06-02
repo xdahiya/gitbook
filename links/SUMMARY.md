@@ -5,7 +5,6 @@
 * [Youtube Channels](youtube-channels.md)
 * [Links](links.md)
 * [components library](components-library.md)
-* [Open Source Projects](open-source-projects.md)
 * [images assets sites](images-assets-sites.md)
 * [frontend design tools ](frontend-design-tools.md)
 * [web design inspirations](web-design-inspirations.md)
@@ -15,3 +14,4 @@
 * [Blockchain](blockchain.md)
 * [Flutter](flutter.md)
 * [AI](ai.md)
+* [Open Source Projects](open-source-projects.md)
