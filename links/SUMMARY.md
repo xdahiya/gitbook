@@ -6,6 +6,7 @@
 * [Links](links.md)
 * [components library](components-library.md)
 * [images assets sites](images-assets-sites.md)
+* [illustrations](illustrations.md)
 * [frontend design tools ](frontend-design-tools.md)
 * [web design inspirations](web-design-inspirations.md)
 * [3d /blender](3d-blender.md)
