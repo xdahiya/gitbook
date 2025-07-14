@@ -161,3 +161,18 @@ mantine.com
 {% embed url="https://reverseui.com/" %}
 
 {% embed url="https://zenui.net/" %}
+
+
+
+{% embed url="https://skiper-ui.com/" %}
+
+{% embed url="https://www.dynaui.design/?ref=dailydev" %}
+
+{% embed url="https://www.cosmic-ui.com/" %}
+
+
+
+{% embed url="https://patterncraft.fun/" %}
+
+{% embed url="https://reactbits.dev" %}
+
