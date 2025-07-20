@@ -176,3 +176,12 @@ mantine.com
 
 {% embed url="https://reactbits.dev" %}
 
+
+
+{% embed url="https://seraui.seraprogrammer.com/" %}
+
+{% embed url="https://playground.platejs.org/editor" %}
+
+{% embed url="https://www.dynaui.design/?ref=dailydev" %}
+
+{% embed url="https://www.cosmic-ui.com/" %}
