@@ -192,3 +192,4 @@ mantine.com
 
 {% embed url="https://pro.shadcnui-blocks.com/" %}
 
+{% embed url="https://blocks.tremor.so/blocks" %}
