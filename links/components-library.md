@@ -185,3 +185,10 @@ mantine.com
 {% embed url="https://www.dynaui.design/?ref=dailydev" %}
 
 {% embed url="https://www.cosmic-ui.com/" %}
+
+{% embed url="https://reui.io/" %}
+
+{% embed url="https://ai-sdk.dev/elements/components/tool" %}
+
+{% embed url="https://pro.shadcnui-blocks.com/" %}
+
