@@ -193,3 +193,11 @@ mantine.com
 {% embed url="https://pro.shadcnui-blocks.com/" %}
 
 {% embed url="https://blocks.tremor.so/blocks" %}
+
+{% embed url="https://wigggle-ui.vercel.app/" %}
+
+{% embed url="https://design.dev/" %}
+
+{% embed url="https://www.navbar.gallery/" %}
+
+{% embed url="https://finalui.com/" %}
