@@ -201,3 +201,5 @@ mantine.com
 {% embed url="https://www.navbar.gallery/" %}
 
 {% embed url="https://finalui.com/" %}
+
+{% embed url="https://lightswind.com/" %}
