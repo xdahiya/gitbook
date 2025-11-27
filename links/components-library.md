@@ -203,3 +203,5 @@ mantine.com
 {% embed url="https://finalui.com/" %}
 
 {% embed url="https://lightswind.com/" %}
+
+{% embed url="https://allsvgicons.com/" %}
