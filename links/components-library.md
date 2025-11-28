@@ -205,3 +205,7 @@ mantine.com
 {% embed url="https://lightswind.com/" %}
 
 {% embed url="https://allsvgicons.com/" %}
+
+{% embed url="https://reui.io/" %}
+
+{% embed url="https://bestfreefonts.com/" %}
