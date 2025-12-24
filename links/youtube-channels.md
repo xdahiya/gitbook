@@ -6,9 +6,12 @@ description: important youtube channels
 
 <mark style="color:green;">**frontend**</mark>
 
-| channel      | description                         |
-| ------------ | ----------------------------------- |
-| Wael Yasmina | 3d ,threejs and animations internal |
+| channel                   | description                                                                              |
+| ------------------------- | ---------------------------------------------------------------------------------------- |
+| Wael Yasmina              | 3d ,threejs and animations internal                                                      |
+| Sajid                     | [https://www.youtube.com/@whosajid](https://www.youtube.com/@whosajid)                   |
+| Veera Shrivastva          | [https://www.youtube.com/@VeeraSrivastava](https://www.youtube.com/@VeeraSrivastava)     |
+| Cutting Edge School Figma | [https://www.youtube.com/@CuttingEdgeSchool](https://www.youtube.com/@CuttingEdgeSchool) |
 
 <mark style="color:red;">**nodejs**</mark>
 
