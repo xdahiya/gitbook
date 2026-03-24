@@ -209,3 +209,5 @@ mantine.com
 {% embed url="https://reui.io/" %}
 
 {% embed url="https://bestfreefonts.com/" %}
+
+{% embed url="https://pdfx.akashpise.dev/?ref=dailydev" %}
