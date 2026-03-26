@@ -213,3 +213,8 @@ mantine.com
 {% embed url="https://pdfx.akashpise.dev/?ref=dailydev" %}
 
 {% embed url="https://www.fonttrio.xyz/" %}
+
+{% embed url="https://shadcnstudio.com/" %}
+
+{% embed url="https://www.shadcnblocks.com/" %}
+
