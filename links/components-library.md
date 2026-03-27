@@ -218,3 +218,6 @@ mantine.com
 
 {% embed url="https://www.shadcnblocks.com/" %}
 
+{% embed url="https://www.pixel-perfect.space/" %}
+
+{% embed url="https://www.scificn.dev/" %}
