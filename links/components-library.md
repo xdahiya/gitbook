@@ -221,3 +221,5 @@ mantine.com
 {% embed url="https://www.pixel-perfect.space/" %}
 
 {% embed url="https://www.scificn.dev/" %}
+
+{% embed url="https://square.lndevui.com/" %}
