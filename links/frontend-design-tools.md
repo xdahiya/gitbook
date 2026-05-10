@@ -35,3 +35,5 @@ description: links of tools and webs helpful in frontend
 {% embed url="https://www.shadcn-builder.com/" %}
 
 {% embed url="https://www.artstation.com/search?sort_by=relevance&query=btc" %}
+
+{% embed url="https://www.typeui.sh/design-skills" %}
